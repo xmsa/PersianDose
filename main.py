@@ -44,7 +44,7 @@ def win():
 	r=r or check(19, 20 ,21)
 	r=r or check(25 ,17, 9)
 	r=r or check(17, 9, 1)
-	r=r or check(7  ,1 ,5 )
+	r=r or check(9  ,1 ,5 )
 	r=r or check(1  ,5 ,13)
 	r=r or check(5 , 13 ,21)
 	r=r or check(19 ,11 ,3 )
